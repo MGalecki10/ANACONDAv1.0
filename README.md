@@ -1,3 +1,2 @@
-# SNAKEv1.0
-Its simple Snake game, where you can change game's parameters.
-Some further version will comming soon.
+# ANACONDAv1.0
+Classic game on old Mobile Phones. Written in Python with turtle library. Game have scoreboard where we can monitor the results also we can change a parameters of the game for example size of board and snake, speed and all colours.
